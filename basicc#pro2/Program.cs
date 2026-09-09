@@ -131,7 +131,16 @@ namespace basicc_pro2
             //}
             #endregion
 
-
+            #region question 13
+            ////Using the same books array, use a while loop to print every book title. 
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //int index = 0;
+            //while (index < books.Length)
+            //{
+            //    Console.WriteLine($"Index: {index} value: {books[index]}");
+            //    index++;
+            //}
+            #endregion
         }
     }
 }
