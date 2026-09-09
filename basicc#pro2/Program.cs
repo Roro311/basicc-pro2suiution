@@ -54,6 +54,15 @@ namespace basicc_pro2
             ////تتحول pages تلقائيًا إلى string أثناء عملية الـconcatenation.
             #endregion
 
+            #region question 6
+            //// Build the same sentence as above, but using string interpolation ($"..."). 
+            //string title = "Clean Code";
+            //int pages = 464;
+            //string sentence = $"Book: {title}, Pages: {pages}";
+            //Console.WriteLine(sentence);
+            #endregion
+
+
         }
     }
 }
