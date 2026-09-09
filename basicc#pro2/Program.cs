@@ -1,5 +1,6 @@
 ﻿using System.Drawing;
 using System.Security.Cryptography;
+using System.Text;
 using System.Threading.Channels;
 
 namespace basicc_pro2
@@ -24,6 +25,15 @@ namespace basicc_pro2
             //string str2 = "Clean Code";
             //Console.WriteLine(ReferenceEquals(str1, str2));
             //// The output will be True , both str1 and str2 point to the same object in memory.
+            #endregion
+
+            #region question 3
+            ////Create a StringBuilder, Append() the text "Book List", then Append() " - Updated" onto the same object.Print the final result.
+            //StringBuilder bookList = new StringBuilder();
+            //bookList.Append("Book List");
+            //bookList.Append(" - Updated");
+            //Console.WriteLine(bookList);
+
             #endregion
 
 
