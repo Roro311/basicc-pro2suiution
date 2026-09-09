@@ -36,6 +36,15 @@ namespace basicc_pro2
 
             #endregion
 
+            #region question 4
+            ////Using the StringBuilder from the question above, use Replace() to change "Book List" into "Library".Print the result.
+            //StringBuilder bookList = new StringBuilder();
+            //bookList.Append("Book List");
+            //bookList.Append(" - Updated");
+            //bookList.Replace("Book List", "Library");
+            //Console.WriteLine(bookList);
+            #endregion
+
 
         }
     }
